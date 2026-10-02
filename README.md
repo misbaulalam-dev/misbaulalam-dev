@@ -39,6 +39,82 @@ I don't want to limit myself to one type of software.
 I like exploring:
 
 **Websites • Applications • Games • AI • UI/UX • Automation • Creative Technology**
+---
+
+<div align="center">
+
+# `TECH STACK`
+
+### LANGUAGES
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+
+<br><br>
+
+### FRAMEWORKS & PLATFORMS
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+
+<br><br>
+
+### TOOLS
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+
+</div>
+---
+
+<div align="center">
+
+# `WHAT I DO`
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Web Development
+
+I enjoy creating responsive websites and interactive web applications with modern frontend technologies.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📱 App Development
+
+I explore application ideas, interfaces, utilities and product concepts across different platforms.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 Game Development
+
+I experiment with game concepts, storytelling, environments, gameplay and optimization.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI & Automation
+
+I explore AI-powered applications, automation, bots and creative technology.
+
+</td>
+</tr>
+</table>
 
 ---
 
