@@ -1,133 +1,144 @@
-<div align="center">
+# 🚀 What I'm Building
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=MISBAUL%20ALAM&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:030712,55:0f172a,100:1e3a8a"/>
+I like working on different kinds of digital products — from web applications
+and mobile concepts to games, AI experiments and automation tools.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=93C5FD&center=true&vCenter=true&width=850&lines=Student+%7C+Builder+%7C+Developer;Websites+%7C+Apps+%7C+Games+%7C+AI;I+turn+ideas+into+things+you+can+actually+use."/>
+My projects usually start with a simple question:
 
-<br><br>
-
-<a href="https://github.com/misbaulalam-dev">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://workpointcenter.vercel.app/">
-<img src="https://img.shields.io/badge/Work%20Point%20Center-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
+> "Can I build this?"
 
 ---
 
-## `hello, world.`
+## 🌐 Web Development
 
-I'm **Misbaul Alam**.
+I build and experiment with modern websites and web applications.
 
-I'm a student who likes to build.
+### Areas I explore
 
-Not just websites.
+- Responsive web interfaces
+- Interactive dashboards
+- Authentication systems
+- Search & discovery
+- Realtime applications
+- Database-driven products
+- Modern UI/UX
 
-Not just apps.
-
-Not just experiments.
-
-I like exploring the whole process of turning an idea into a digital product — **thinking about the idea, designing the experience, writing the code, building the backend, connecting the database, solving the problems, and eventually putting it online.**
-
-Some things I build are serious products.
-
-Some are prototypes.
-
-Some are experiments.
-
-And some start because I simply wondered:
-
-> **"What would happen if I built this?"**
-
-That's probably the best way to describe how I learn.
+**Technologies:**  
+`HTML` · `CSS` · `JavaScript` · `React` · `TypeScript`
 
 ---
 
-# `my playground`
+## 📱 App Development
 
-<div align="center">
+I enjoy designing application ideas and turning them into working prototypes.
 
-| 🌐 WEB | 📱 APPS | 🎮 GAMES | 🤖 AI |
-|:---:|:---:|:---:|:---:|
-| Websites | App concepts | Horror | AI products |
-| Web apps | Dashboards | Story-driven | Q&A |
-| Marketplaces | Utilities | Environments | Creative tools |
-| Search systems | Finance ideas | Gameplay | AI media |
+I'm particularly interested in:
 
-</div>
+- Productivity apps
+- Q&A applications
+- Finance-related apps
+- Utility tools
+- Social and communication concepts
+- Mobile-first interfaces
 
-I don't really want to stay inside one category.
-
-I like moving between them.
-
-A marketplace teaches me about databases.
-
-A trading interface teaches me about information design.
-
-A game teaches me about atmosphere and optimization.
-
-An AI experiment teaches me about new ways people can interact with software.
+I focus on making the interface simple while keeping the underlying system practical.
 
 ---
 
-# `things i've built`
+## 📈 TradeView Pro
 
-## 💼 Work Point Center
+A trading-platform concept focused on creating a modern market-analysis experience.
 
-### A local job & gig marketplace
+### Exploring
 
-**Work Point Center** is one of my main projects.
+`Charts` · `Market Data` · `Analytics` · `Trading UI` · `Portfolio Concepts` · `Broker Connectivity`
 
-The idea is simple:
+The main challenge is designing a complex information-heavy product without making it confusing.
 
-**connect people looking for work with people looking for workers.**
+**Status:** `Prototype`
 
-🌐 **Live:**  
-https://workpointcenter.vercel.app/
+---
 
-But building it turned into much more than making a few pages.
+## 🎮 Game Development
 
-I worked around areas such as:
+Game development is one of the areas I experiment with for fun and creativity.
 
-**Authentication**  
-**User profiles**  
-**Job publishing**  
-**Search & discovery**  
-**Applications**  
-**Private communication**  
-**Realtime updates**  
-**Location-based features**  
-**Admin tools**  
-**Moderation**  
-**Database security**  
-**Deployment**
+I'm interested in creating:
 
-### Tech
+- Horror experiences
+- Story-driven games
+- Atmospheric environments
+- Puzzle systems
+- Exploration
+- Cinematic scenes
+- Performance-optimized experiences
 
-`React` `TypeScript` `Supabase` `PostgreSQL` `Vercel`
+One of my current concepts explores a survival-horror experience designed to maintain strong visuals while remaining playable on lower-end hardware.
 
-### What interests me most about this project
+**Status:** `Concept / Experimental`
 
-The part people don't immediately see.
+---
 
-The invisible systems behind the interface:
+## 🤖 AI Experiments
 
-```text
-USER
-  ↓
-AUTHENTICATION
-  ↓
-PERMISSIONS
-  ↓
-DATABASE
-  ↓
-REALTIME
-  ↓
-SECURITY
-  ↓
-PRODUCT
+I'm exploring ways AI can become part of real applications.
+
+### Things I've experimented with
+
+- Q&A applications
+- AI-assisted interfaces
+- AI product concepts
+- Creative generation
+- AI video concepts
+- AI music experiments
+- AI-powered workflows
+
+I'm more interested in **useful AI integration** than simply adding an AI chatbot to everything.
+
+---
+
+## ⚙️ Automation & Bots
+
+I've also experimented with automation systems and bot-based applications.
+
+Areas include:
+
+`Telegram Bots`
+
+`Expense Tracking`
+
+`Wallet Concepts`
+
+`Database Workflows`
+
+`Automated Responses`
+
+I enjoy seeing how a small command can trigger an entire backend workflow.
+
+---
+
+## 🎨 UI / UX
+
+I spend a lot of time thinking about how applications should look and feel.
+
+I'm interested in:
+
+**Dark interfaces**
+
+**Minimal layouts**
+
+**Responsive design**
+
+**Dashboards**
+
+**Mobile UX**
+
+**Animations**
+
+**Micro-interactions**
+
+**Product branding**
+
+My goal is simple:
+
+> Make complicated things feel easy.
