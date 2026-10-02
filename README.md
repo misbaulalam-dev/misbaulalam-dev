@@ -1,115 +1,210 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=230&text=MISBAUL%20ALAM&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn&color=0:020617,50:0f172a,100:1d4ed8"
+  src="https://capsule-render.vercel.app/api?type=waving&height=240&text=MISBAUL%20ALAM&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn&color=0:020617,50:0f172a,100:2563eb"
   width="100%"
 />
 
 <br>
 
-<h2>
-Building • Designing • Experimenting
-</h2>
-
-<p>
-Websites · Apps · Games · AI · UI/UX
-</p>
-
-<br>
-
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=I+build+things+I+would+actually+use.;Ideas+become+interfaces.;Interfaces+become+products."
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&width=800&lines=Student+%7C+Developer+%7C+Creator;Web+%E2%80%A2+Apps+%E2%80%A2+Games+%E2%80%A2+AI;Learning+by+building+and+experimenting"
+  alt="Typing animation"
 />
 
 <br><br>
 
-<a href="https://github.com/misbaulalam-dev">
-<img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<img src="https://img.shields.io/badge/BUILD-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CREATE-1D4ED8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EXPLORE-2563EB?style=for-the-badge"/>
 
 </div>
-
-<br>
 
 ---
 
 <div align="center">
 
-## `HELLO, I'M MISBAUL`
+# `HELLO, I'M MISBAUL`
 
 </div>
 
-I'm a student who likes **building things**.
+I'm **Misbaul Alam**, a student and aspiring developer who enjoys exploring technology by actually building things.
 
-I work across websites, applications, games, AI experiments and
-creative digital projects.
+I'm interested in the space between **code, design, creativity and ideas**.
 
-I enjoy the entire process:
+I enjoy learning how things work, experimenting with new technologies, designing interfaces and turning concepts into working prototypes.
 
-`IDEA → DESIGN → CODE → TEST → BREAK → FIX → SHIP`
+I don't want to limit myself to one type of software.
 
-I don't want to only learn technology.
+I like exploring:
 
-**I want to build with it.**
+**Websites • Applications • Games • AI • UI/UX • Automation • Creative Technology**
 
 ---
 
 <div align="center">
 
-## `MY WORLD`
+# `WHAT I LIKE`
 
 </div>
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
 ### 🌐
-**WEB**
 
-Websites  
-Web Apps  
-Dashboards  
-Interactive UI
+## WEB
+
+Modern websites
+
+Responsive interfaces
+
+Interactive experiences
 
 </td>
 
 <td align="center" width="25%">
 
 ### 📱
-**APPS**
 
-App Concepts  
-Utilities  
-Finance  
-Q&A
+## APPS
+
+Application concepts
+
+Utilities
+
+Dashboards
+
+Product ideas
 
 </td>
 
 <td align="center" width="25%">
 
 ### 🎮
-**GAMES**
 
-Horror  
-Story  
-Gameplay  
-World Building
+## GAMES
+
+Game concepts
+
+Storytelling
+
+Horror
+
+World building
 
 </td>
 
 <td align="center" width="25%">
 
 ### 🤖
-**AI**
 
-AI Apps  
-Automation  
-Creative Tools  
-Experiments
+## AI
+
+AI applications
+
+Automation
+
+Creative experiments
+
+New ideas
 
 </td>
+
 </tr>
 </table>
 
 ---
+
+<div align="center">
+
+# `MY INTERESTS`
+
+</div>
+
+### 💻 Software Development
+
+I enjoy understanding how complete applications are built, from the interface all the way to the backend.
+
+### 🎨 UI / UX
+
+I'm interested in clean layouts, modern interfaces, responsive design, interaction and visual identity.
+
+### 🤖 Artificial Intelligence
+
+I'm exploring how AI can be used inside real applications, creative workflows and useful tools.
+
+### 🎮 Game Development
+
+I enjoy thinking about game worlds, atmosphere, stories, gameplay mechanics and optimization.
+
+### ⚙️ Automation
+
+I'm interested in bots, workflows and systems that can perform useful tasks automatically.
+
+### 🧠 Product Thinking
+
+I like asking:
+
+> What problem does this solve?
+
+> Who would actually use it?
+
+> Can the experience be simpler?
+
+---
+
+<div align="center">
+
+# `TECHNOLOGY`
+
+</div>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts"/>
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=supabase,postgres"/>
+</p>
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
+</p>
+
+---
+
+<div align="center">
+
+# `WHAT I'M LEARNING`
+
+</div>
+
+```text
+React
+   ↓
+TypeScript
+   ↓
+Full-Stack Development
+   ↓
+PostgreSQL
+   ↓
+Backend Architecture
+   ↓
+Authentication
+   ↓
+Application Security
+   ↓
+Realtime Systems
+   ↓
+AI Integration
+   ↓
+Better Product Design
