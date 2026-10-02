@@ -1,157 +1,133 @@
 <div align="center">
 
-<img width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=260&text=MISBAUL%20ALAM&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=BUILDING%20IDEAS%20INTO%20REAL%20THINGS&descSize=16&descAlignY=62&animation=fadeIn&color=0:020617,50:0f172a,100:1d4ed8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=MISBAUL%20ALAM&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:030712,55:0f172a,100:1e3a8a"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=780&lines=Websites+%E2%80%A2+Apps+%E2%80%A2+Games+%E2%80%A2+AI+%E2%80%A2+Experiments;I+like+building+things+I+would+actually+use.;Design.+Code.+Backend.+Product.+Repeat."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=93C5FD&center=true&vCenter=true&width=850&lines=Student+%7C+Builder+%7C+Developer;Websites+%7C+Apps+%7C+Games+%7C+AI;I+turn+ideas+into+things+you+can+actually+use."/>
 
 <br><br>
 
 <a href="https://github.com/misbaulalam-dev">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://workpointcenter.vercel.app/">
-<img src="https://img.shields.io/badge/WORK_POINT_CENTER-2563EB?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Work%20Point%20Center-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
----
-
-# `whoami`
-
-I'm **Misbaul Alam** — a student who likes building things.
-
-I'm interested in the space where **software, design and ideas** meet.
-
-Sometimes that means building a complete web application.
-
-Sometimes it means designing an app that doesn't exist yet.
-
-Sometimes it's a game concept.
-
-Sometimes it's a strange experiment just because I wanted to know:
-
-> **"Can I build this?"**
-
-I learn by making things.
+<br>
 
 ---
 
-# `what i build`
+## `hello, world.`
 
-<table>
-<tr>
-<td width="25%" align="center">
+I'm **Misbaul Alam**.
 
-### 🌐
-**WEBSITES**
+I'm a student who likes to build.
 
-Business sites  
-Landing pages  
-Product experiences  
-Responsive interfaces
+Not just websites.
 
-</td>
+Not just apps.
 
-<td width="25%" align="center">
+Not just experiments.
 
-### 💻
-**APPS**
+I like exploring the whole process of turning an idea into a digital product — **thinking about the idea, designing the experience, writing the code, building the backend, connecting the database, solving the problems, and eventually putting it online.**
 
-Web applications  
-Dashboards  
-Search systems  
-Chat & workflows
+Some things I build are serious products.
 
-</td>
+Some are prototypes.
 
-<td width="25%" align="center">
+Some are experiments.
 
-### 🎮
-**GAMES**
+And some start because I simply wondered:
 
-Story concepts  
-Horror experiences  
-Gameplay ideas  
-Performance experiments
+> **"What would happen if I built this?"**
 
-</td>
-
-<td width="25%" align="center">
-
-### 🤖
-**EXPERIMENTS**
-
-AI  
-Automation  
-Bots  
-Creative tools
-
-</td>
-</tr>
-</table>
+That's probably the best way to describe how I learn.
 
 ---
 
-# `selected.work`
+# `my playground`
 
-## 01 — Work Point Center
+<div align="center">
+
+| 🌐 WEB | 📱 APPS | 🎮 GAMES | 🤖 AI |
+|:---:|:---:|:---:|:---:|
+| Websites | App concepts | Horror | AI products |
+| Web apps | Dashboards | Story-driven | Q&A |
+| Marketplaces | Utilities | Environments | Creative tools |
+| Search systems | Finance ideas | Gameplay | AI media |
+
+</div>
+
+I don't really want to stay inside one category.
+
+I like moving between them.
+
+A marketplace teaches me about databases.
+
+A trading interface teaches me about information design.
+
+A game teaches me about atmosphere and optimization.
+
+An AI experiment teaches me about new ways people can interact with software.
+
+---
+
+# `things i've built`
+
+## 💼 Work Point Center
 
 ### A local job & gig marketplace
 
-**Work Point Center** is a product I'm building around a simple idea:
+**Work Point Center** is one of my main projects.
 
-> **Make it easier for people to find work and for people to find workers.**
+The idea is simple:
+
+**connect people looking for work with people looking for workers.**
 
 🌐 **Live:**  
 https://workpointcenter.vercel.app/
 
-### What I've explored while building it
+But building it turned into much more than making a few pages.
 
-`React` `TypeScript` `Supabase` `PostgreSQL` `Realtime` `Authentication` `RLS` `Location`
+I worked around areas such as:
 
-### Product areas
+**Authentication**  
+**User profiles**  
+**Job publishing**  
+**Search & discovery**  
+**Applications**  
+**Private communication**  
+**Realtime updates**  
+**Location-based features**  
+**Admin tools**  
+**Moderation**  
+**Database security**  
+**Deployment**
 
-- User accounts & profiles
-- Job publishing
-- Job discovery
-- Applications
-- Private communication
-- Realtime updates
-- Location-aware features
-- Admin dashboard
-- Moderation
-- Security & permissions
+### Tech
 
-This project has pushed me beyond just making screens.
+`React` `TypeScript` `Supabase` `PostgreSQL` `Vercel`
 
-I've had to think about **database structure, authentication, permissions, security, realtime data, deployment and the actual user journey**.
+### What interests me most about this project
 
----
+The part people don't immediately see.
 
-## 02 — TradeView Pro
-
-### A trading application concept
-
-TradeView Pro is an ongoing exploration of what a modern trading platform could look and feel like.
-
-### Exploring
-
-`Market Data` · `Charts` · `Analytics` · `Trading UI` · `Broker Connectivity`
-
-The focus is not just on charts.
-
-I'm interested in the entire experience:
+The invisible systems behind the interface:
 
 ```text
-DATA
+USER
   ↓
-ANALYSIS
+AUTHENTICATION
   ↓
-DECISION
+PERMISSIONS
   ↓
-ACTION
+DATABASE
+  ↓
+REALTIME
+  ↓
+SECURITY
+  ↓
+PRODUCT
