@@ -1,71 +1,157 @@
 <div align="center">
 
-<!-- HERO -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=MISBAUL%20ALAM&fontAlign=50&fontAlignY=38&desc=Student%20%E2%80%A2%20Builder%20%E2%80%A2%20Developer%20%E2%80%A2%20Creator&descAlign=50&descAlignY=58&animation=fadeIn&fontColor=ffffff&color=0:020617,45:0f172a,100:2563eb" width="100%"/>
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=260&text=MISBAUL%20ALAM&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=BUILDING%20IDEAS%20INTO%20REAL%20THINGS&descSize=16&descAlignY=62&animation=fadeIn&color=0:020617,50:0f172a,100:1d4ed8"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&width=900&lines=I+build+websites%2C+apps%2C+games+%26+digital+products;React+%7C+TypeScript+%7C+Supabase+%7C+PostgreSQL;Designing+interfaces+that+feel+simple;Exploring+AI%2C+automation+%26+new+technology;From+an+idea+to+a+working+product+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=780&lines=Websites+%E2%80%A2+Apps+%E2%80%A2+Games+%E2%80%A2+AI+%E2%80%A2+Experiments;I+like+building+things+I+would+actually+use.;Design.+Code.+Backend.+Product.+Repeat."/>
 
 <br><br>
 
 <a href="https://github.com/misbaulalam-dev">
-<img src="https://img.shields.io/badge/GitHub-misbaulalam--dev-111827?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://workpointcenter.vercel.app/">
-<img src="https://img.shields.io/badge/Live-Work%20Point%20Center-2563eb?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/WORK_POINT_CENTER-2563EB?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-# 👋 Hey, I'm Misbaul
+# `whoami`
 
-I'm a **student, aspiring full-stack developer, UI/UX enthusiast and independent builder**.
+I'm **Misbaul Alam** — a student who likes building things.
 
-I like taking an idea that starts as:
+I'm interested in the space where **software, design and ideas** meet.
 
-> "What if I build this?"
+Sometimes that means building a complete web application.
 
-and turning it into something people can actually interact with.
+Sometimes it means designing an app that doesn't exist yet.
 
-My interests aren't limited to one type of software.
+Sometimes it's a game concept.
 
-I explore **websites, web applications, mobile/app concepts, games, AI experiments, automation, dashboards, trading interfaces, marketplaces, chat systems and digital products**.
+Sometimes it's a strange experiment just because I wanted to know:
+
+> **"Can I build this?"**
+
+I learn by making things.
 
 ---
 
-# 🧭 My Developer Journey
+# `what i build`
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🌐
+**WEBSITES**
+
+Business sites  
+Landing pages  
+Product experiences  
+Responsive interfaces
+
+</td>
+
+<td width="25%" align="center">
+
+### 💻
+**APPS**
+
+Web applications  
+Dashboards  
+Search systems  
+Chat & workflows
+
+</td>
+
+<td width="25%" align="center">
+
+### 🎮
+**GAMES**
+
+Story concepts  
+Horror experiences  
+Gameplay ideas  
+Performance experiments
+
+</td>
+
+<td width="25%" align="center">
+
+### 🤖
+**EXPERIMENTS**
+
+AI  
+Automation  
+Bots  
+Creative tools
+
+</td>
+</tr>
+</table>
+
+---
+
+# `selected.work`
+
+## 01 — Work Point Center
+
+### A local job & gig marketplace
+
+**Work Point Center** is a product I'm building around a simple idea:
+
+> **Make it easier for people to find work and for people to find workers.**
+
+🌐 **Live:**  
+https://workpointcenter.vercel.app/
+
+### What I've explored while building it
+
+`React` `TypeScript` `Supabase` `PostgreSQL` `Realtime` `Authentication` `RLS` `Location`
+
+### Product areas
+
+- User accounts & profiles
+- Job publishing
+- Job discovery
+- Applications
+- Private communication
+- Realtime updates
+- Location-aware features
+- Admin dashboard
+- Moderation
+- Security & permissions
+
+This project has pushed me beyond just making screens.
+
+I've had to think about **database structure, authentication, permissions, security, realtime data, deployment and the actual user journey**.
+
+---
+
+## 02 — TradeView Pro
+
+### A trading application concept
+
+TradeView Pro is an ongoing exploration of what a modern trading platform could look and feel like.
+
+### Exploring
+
+`Market Data` · `Charts` · `Analytics` · `Trading UI` · `Broker Connectivity`
+
+The focus is not just on charts.
+
+I'm interested in the entire experience:
 
 ```text
-                 💡 IDEA
-                   │
-                   ▼
-              🎨 DESIGN
-                   │
-                   ▼
-            🧩 BUILD PROTOTYPE
-                   │
-                   ▼
-          💻 FRONTEND DEVELOPMENT
-                   │
-                   ▼
-             ⚙️ BACKEND
-                   │
-                   ▼
-            🗄️ DATABASE
-                   │
-                   ▼
-          🔐 AUTH + SECURITY
-                   │
-                   ▼
-              🧪 TEST
-                   │
-                   ▼
-             🚀 DEPLOY
-                   │
-                   ▼
-             🔁 IMPROVE
+DATA
+  ↓
+ANALYSIS
+  ↓
+DECISION
+  ↓
+ACTION
