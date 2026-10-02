@@ -1,14 +1,12 @@
-<!-- =========================================================
-     HEADER
-========================================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Misbaul%20Alam&fontAlign=50&fontAlignY=38&desc=Student%20%7C%20Aspiring%20Full-Stack%20Developer%20%7C%20Builder&descAlign=50&descAlignY=58&animation=fadeIn&fontColor=ffffff&color=0:020617,50:0f172a,100:2563eb" width="100%"/>
+<!-- HERO -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=MISBAUL%20ALAM&fontAlign=50&fontAlignY=38&desc=Student%20%E2%80%A2%20Builder%20%E2%80%A2%20Developer%20%E2%80%A2%20Creator&descAlign=50&descAlignY=58&animation=fadeIn&fontColor=ffffff&color=0:020617,45:0f172a,100:2563eb" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=800&color=60A5FA&center=true&vCenter=true&width=850&lines=Building+real-world+digital+products;Full-Stack+Web+Development;React+%7C+TypeScript+%7C+Supabase+%7C+PostgreSQL;UI%2FUX+%7C+Security+%7C+Realtime+Applications;Exploring+AI+and+next-generation+software" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&width=900&lines=I+build+websites%2C+apps%2C+games+%26+digital+products;React+%7C+TypeScript+%7C+Supabase+%7C+PostgreSQL;Designing+interfaces+that+feel+simple;Exploring+AI%2C+automation+%26+new+technology;From+an+idea+to+a+working+product+%E2%9A%A1" />
 
 <br><br>
 
@@ -17,54 +15,57 @@
 </a>
 
 <a href="https://workpointcenter.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Project-Work%20Point%20Center-2563eb?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Live-Work%20Point%20Center-2563eb?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-# 👋 Hello, I'm Misbaul Alam
+# 👋 Hey, I'm Misbaul
 
-I'm a **student and aspiring full-stack developer** who enjoys turning ideas into real, usable software.
+I'm a **student, aspiring full-stack developer, UI/UX enthusiast and independent builder**.
 
-My main interest is building **modern web applications** that combine clean interfaces, reliable backend systems, databases, authentication, realtime functionality and practical product design.
+I like taking an idea that starts as:
 
-I don't want to only learn technologies individually.
+> "What if I build this?"
 
-I want to understand how the whole product works:
+and turning it into something people can actually interact with.
 
-**Idea → UI/UX → Frontend → Backend → Database → Authentication → Security → Deployment → Real Users**
+My interests aren't limited to one type of software.
+
+I explore **websites, web applications, mobile/app concepts, games, AI experiments, automation, dashboards, trading interfaces, marketplaces, chat systems and digital products**.
 
 ---
 
-# 🧑‍💻 About Me
+# 🧭 My Developer Journey
 
-```yaml
-name: Misbaul Alam
-username: misbaulalam-dev
-role: Student & Aspiring Full-Stack Developer
-
-interests:
-  - Full-Stack Development
-  - Web Applications
-  - UI/UX Design
-  - Artificial Intelligence
-  - Backend Systems
-  - Database Architecture
-  - Application Security
-  - Product Development
-
-currently_learning:
-  - React
-  - TypeScript
-  - PostgreSQL
-  - Supabase
-  - Modern Web Architecture
-  - AI-powered Applications
-
-development_style:
-  - Build real projects
-  - Learn by solving problems
-  - Improve through iteration
-  - Focus on practical products
+```text
+                 💡 IDEA
+                   │
+                   ▼
+              🎨 DESIGN
+                   │
+                   ▼
+            🧩 BUILD PROTOTYPE
+                   │
+                   ▼
+          💻 FRONTEND DEVELOPMENT
+                   │
+                   ▼
+             ⚙️ BACKEND
+                   │
+                   ▼
+            🗄️ DATABASE
+                   │
+                   ▼
+          🔐 AUTH + SECURITY
+                   │
+                   ▼
+              🧪 TEST
+                   │
+                   ▼
+             🚀 DEPLOY
+                   │
+                   ▼
+             🔁 IMPROVE
